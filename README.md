@@ -2,10 +2,10 @@
 
 <div id="header" align="center">
 
-    <div id="badges">
-    <a href="https://www.linkedin.com/in/jun-kang-liew-03479557/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+<div id="badges">
+<a href="https://www.linkedin.com/in/jun-kang-liew-03479557/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
   </div>
    
   <h1>
